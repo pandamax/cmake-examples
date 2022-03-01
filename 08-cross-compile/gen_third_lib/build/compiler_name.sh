@@ -6,7 +6,6 @@ mkdir ${BUILD_DIR}
 cd ${BUILD_DIR}
 
 set BUILD_TYPE=Release
-BUILD_TYPE=Release
 mkdir $BUILD_TYPE
 # macros
 # -DUSE_LOG=ON
